@@ -7,4 +7,4 @@ def kwargsAcceptFun(**kwargs):
         print(f"{key}: {value}")
 
 if __name__ == "__main__":
-    kwargsAcceptFun(name="Alice", age=25, country="USA", profession="Engineer")
+    kwargsAcceptFun(name="Alisher", age=25, country="uzb", profession="Engineer")
